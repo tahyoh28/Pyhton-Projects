@@ -15,6 +15,7 @@ Learn how to read/write files and perform data manipulation
 Gain introductory experience with data analysis and visualization
 
 📚 Topics Covered
+
 Variables, data types, and type casting
 
 Conditional statements and loops
