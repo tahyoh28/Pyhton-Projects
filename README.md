@@ -3,6 +3,7 @@
 This Python Programming Workbook is a hands-on collection of coding exercises and mini-projects aimed at reinforcing core Python skills. It serves as a practical learning resource for beginners and aspiring data professionals, with real-world examples designed to build confidence in writing and understanding Python code.
 
 🎯 Objectives
+
 Strengthen understanding of Python syntax and programming fundamentals
 
 Practice with real-life coding challenges and logic building
